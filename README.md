@@ -1,6 +1,6 @@
 markdown# SEN 104 & 214 Scientific Calculator App
 
-[![Download APK](https://img.shields.io/badge/Download-APK-blue?logo=android&style=for-the-badge)](https://github.com/DiverseXL/sci-calculator-sen/releases/download/v1.0.0/calculator-sen-v1.0.0.apk)
+[![Download APK](https://img.shields.io/badge/Download-APK-blue?logo=android&style=for-the-badge)](https://github.com/divineedikan/sen-sci-calculator/releases/download/v1.0.0/calculator-sen-v1.0.0.apk)
 
 A premium scientific calculator built with React Native (Expo) for Android with support for advanced mathematical operations.
 
@@ -91,8 +91,6 @@ calculator-sen/
 - **Course**: SEN 104 & 214
 - **Assignment**: Scientific Calculator Mobile App
 - **Deadline**: June 30, 2026
-- **GitHub**: https://github.com/DiverseXL/sci-calculator-sen
+- **GitHub**: https://github.com/divineedikan/sen-sci-calculator
 
 ---
-
-**Made with ❤️ for SEN 214
